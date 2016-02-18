@@ -1,0 +1,20 @@
+{
+  "name": "language-gemfile",
+  "version": "0.1.0",
+  "description": "Bundler Gemfile specific snippets",
+  "keywords": [
+    "language",
+    "grammar",
+    "ruby",
+    "bundle",
+    "bundler",
+    "gemfile",
+    "gems",
+    "rubygems"
+  ],
+  "repository": "https://github.com/aladac/language-gemfile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
