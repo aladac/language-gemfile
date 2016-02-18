@@ -1,3 +1,3 @@
-# PackageName language package
+# Bundler Gemfile specific Atom snippets
 
-A short description of your language package.
+A couple of snippets to ease `Gemfile` editing
